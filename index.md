@@ -1,4 +1,26 @@
-# ***Yo***
+# **Daniel Weng's CSE 15L Lab Reports**
+[Lab Report 1](lab-report-1-week-2.html)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
+---
+# ***pst, yo, while you're still here***
 > ## *Check this out* 
 
 [Watch This!](https://www.youtube.com/watch?v=Y2_B7oKYoAU&t=3746s)
