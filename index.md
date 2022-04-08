@@ -5,9 +5,20 @@
 ---
 
 `Aint that Crazy?`
+
+
+
+
+
 ![Image](https://img.pokemondb.net/artwork/large/furret.jpg)
 
+## **Q&A**
+> *Q*
 ```
-*Where is*
-*he going?*
+1. Where is he going?
+2. Why is he going?
 ```
+> *A*
+1. I don't know.
+2. He doesn't know.
+
