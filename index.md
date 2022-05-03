@@ -1,5 +1,6 @@
 # **Daniel Weng's CSE 15L Lab Reports**
 [Lab Report 1](https://dwengxz.github.io/cse15l-lab-reports/lab-1.html)
+
 [Lab Report 2](https://dwengxz.github.io/cse15l-lab-reports/lab-2.html)
 ```
 
