@@ -2,6 +2,9 @@
 [Lab Report 1](https://dwengxz.github.io/cse15l-lab-reports/lab-1.html)
 
 [Lab Report 2](https://dwengxz.github.io/cse15l-lab-reports/lab-2.html)
+
+[Lab Report 3](https://dwengxz.github.io/cse15l-lab-reports/lab-3.html)
+
 ```
 
 
