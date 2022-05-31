@@ -5,6 +5,14 @@
 ## The Test Implementation of Each Snippet
 ![Image](https://dwengxz.github.io/cse15l-lab-reports/test.PNG)
 
+## Expected outputs:
+
+**Snippet 1:** [`google.com, google.com,ucsd.edu]
+
+**Snippet 2:** [a.com, a.com(()),example.com]
+
+**Snippet 3:** [https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule]
+
 ## The Results of Running Each Test:
 
 **My Implementation**
