@@ -7,6 +7,8 @@
 
 [Lab Report 4](https://dwengxz.github.io/cse15l-lab-reports/lab-4.html)
 
+[Lab Report 5](https://dwengxz.github.io/cse15l-lab-reports/lab-5.html)
+
 ```
 
 
